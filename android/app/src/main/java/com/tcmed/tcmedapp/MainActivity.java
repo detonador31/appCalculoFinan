@@ -1,4 +1,4 @@
-package com.finan.finanapp;
+package com.tcmed.tcmedapp;
 
 import android.os.Bundle;
 
